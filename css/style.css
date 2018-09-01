@@ -1,0 +1,79 @@
+.navbar-brand img {
+    border-radius: 25px;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #000;
+}
+
+.jumbotron {
+    background: url(http://i66.tinypic.com/28am9fs.jpg);
+    color: #fff;
+    background-size: cover;
+    /* vertical-align: middle; */
+    margin-bottom: 2rem;
+}
+
+.card .btn {
+    float: right;
+}
+
+.card {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.app {
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+.Small {
+    color: #6c757d;
+    font-size: 80%;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.Small-red {
+    color: red;
+    font-size: 80%;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.box-shadow {
+    box-shadow: 0 0.25rem 0.75rem rgba(0,0,0,.05);
+}
+
+.warna-hijau {
+    background-color: #0bc72a;
+    color: #fff;
+}
+
+.warna-putih {
+    background-color: #fff;
+}
+
+.about {
+    background-color: rgb(250, 250, 250);
+    border-top: 1px solid rgba(0,0,0,.1);
+    margin-top: 70px;
+    padding-bottom: 30px;
+}
+
+.footer {
+    padding: 20px;
+    color: rgb(108, 117, 125);
+    border-top: 1px solid rgb(231, 231, 231);
+    margin: 0;
+}
+
+.fasilitas {
+    text-align: left;
+}
+
+.Card:hover{-webkit-box-shadow:0 28px 36px rgba(0,0,0,.25),0 10px 10px rgba(0,0,0,.22);box-shadow:0 28px 36px rgba(0,0,0,.25),0 10px 10px rgba(0,0,0,.22);color:#000;cursor:pointer}
